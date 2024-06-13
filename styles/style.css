@@ -30,7 +30,7 @@ h1{
     }
 /* :#00C8C8 orange */
 a{
-    color:#orange;    
+    color:orange;    
     text-decoration:none
     }
 a:hover,a:focus{color:red;font-weight:bold}
