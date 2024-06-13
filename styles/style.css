@@ -30,10 +30,10 @@ h1{
     }
 /* :#00C8C8 orange */
 a{
-    color:orange;    
+    color:red;    
     text-decoration:none
     }
-a:hover,a:focus{color:red;font-weight:bold}
+a:hover,a:focus{color:green;font-weight:bold}
 
 .wrapper{width:860px;margin:0 auto}
 blockquote{margin:0;padding: 0px 0px 25px 80px}
